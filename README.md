@@ -15,3 +15,5 @@ por departamento, filial e nome.
 - Criação de gráficos
 - Filtros e segmentações
 - Organização visual de dashboards
+
+<img width="1144" height="652" alt="image" src="https://github.com/user-attachments/assets/4ebe8bba-a702-4276-bcb4-2ef9eeee808d" />
